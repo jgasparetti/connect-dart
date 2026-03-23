@@ -23,7 +23,7 @@ dependencies:
   test: ^1.25.8
   stream_channel: ^2.1.2
   shelf: ^1.4.2
-  shelf_web_socket: ^2.0.0
+  shelf_web_socket: ^3.0.0
   web_socket_channel: ^3.0.1
 dev_dependencies:
   tools:
