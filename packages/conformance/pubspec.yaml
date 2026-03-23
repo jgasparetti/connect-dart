@@ -17,7 +17,7 @@ dependencies:
   protobuf: ">=3.1.0 <5.0.0"
   connectrpc:
     path: ../connect
-  archive: ^3.6.1
+  archive: ^4.0.0
   path: ^1.9.0
   args: ^2.5.0
   test: ^1.25.8
